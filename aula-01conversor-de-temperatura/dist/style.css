@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  padding: 10px;
+}
+
+.page-title {
+  color:#000000;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  text-align: center;
+ font-size:20px;
+    
+}
+.js {
+  text-align: center;
+  font-size:15px; 
+}
+
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 200px;
+  background-color: #e6e6e6;
+  background-size: vh;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
